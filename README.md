@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NastyaS0S&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="romiardanaputra" /> </p>
 
-- 🌱 I’m currently learning **Next JS, Laravel**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Next JS and other popular frontend's frameworks**
 
